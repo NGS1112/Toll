@@ -1,0 +1,6 @@
+# Ignore compiled objects
+*.class
+
+# Ignore replit files
+.replit
+*.nix
